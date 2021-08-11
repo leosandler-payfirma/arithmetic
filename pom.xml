@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.leosandler-payfirma</groupId>
+    <groupId>io.github.leosandler-payfirma</groupId>
     <artifactId>arithmetic</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
@@ -60,7 +60,7 @@
     <licenses>
         <license>
             <name>MIT License</name>
-            <url>http://www.opensource.org/licenses/mit-license.php</url>
+            <url>https://www.opensource.org/licenses/mit-license.php</url>
         </license>
     </licenses>
 
@@ -128,7 +128,7 @@
     <scm>
         <connection>scm:git:git://github.com/leosandler-payfirma/arithmetic.git</connection>
         <developerConnection>scm:git:ssh://github.com:leosandler-payfirma/arithmetic.git</developerConnection>
-        <url>http://github.com/leosandler-payfirma/arithmetic</url>
+        <url>https://github.com/leosandler-payfirma/arithmetic</url>
     </scm>
 
     <developers>
